@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# production build
+build/
+dist/
+
+# environment variables
+.env
+
+# cache
+.cache/
